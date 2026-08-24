@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nBack to the Top\nEva is a 6-axis of freedom and ease of use, the lab robot arm easily automates the loading and unloading of samples into lab machines, precision balances and more. Eva can handle a range of common lab items including microplates, PCR tube strips, eppendorf tubes, petri dishes and microscope slides to automating repetitive and strenuous sample handling processes. Common manufacturing machine tending applications with Eva include start/end of line loading and unloading of machines such as CNC machines, CMMs, metal presses and chemical etching machines.\nEva lab robot arm from Automata. Source: Automata\nAWS DeepRacer autonomous Car Kit\nCheckout the AWS DeepRacer autonomous Car Kit\nAWS DeepRacer autonomous Car Kit Hardware Specifications\nCheckout the SunFounder PiCar-V Kit V2.0 for Raspberry Pi",
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nEva is a 6-axis of freedom and ease of use, the lab robot arm easily automates the loading and unloading of samples into lab machines, precision balances and more. Eva can handle a range of common lab items including microplates, PCR tube strips, eppendorf tubes, petri dishes and microscope slides to automating repetitive and strenuous sample handling processes. Common manufacturing machine tending applications with Eva include start/end of line loading and unloading of machines such as CNC machines, CMMs, metal presses and chemical etching machines.\nEva lab robot arm from Automata. Source: Automata\nAWS DeepRacer autonomous Car Kit\nCheckout the AWS DeepRacer autonomous Car Kit\nAWS DeepRacer autonomous Car Kit Hardware Specifications\nCheckout the SunFounder PiCar-V Kit V2.0 for Raspberry Pi",
       "items": [
         {
           "node_type": "item",
@@ -95,10 +95,663 @@
         }
       ],
       "title": "A guide covering Robotics including the applications, libraries and tools that will make you a better and more efficient Robotics developer."
+    },
+    {
+      "description": "Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation. It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.\nRobot Structural Analysis Professional is structural load analysis software developed by Autodesk that verifies code compliance and uses BIM-integrated workflows to exchange data with Revit. It can help you to create more resilient, constructible designs that are accurate, coordinated, and connected to BIM.\nPowerMill is a software developed by Autodesk that provides powerful, flexible, easy-to-use tools for offline programming of robots. Get tools to help you optimize robotic paths and simulate virtual mock-ups of manufacturing cells and systems.\nROS is robotics middleware. Although ROS is not an operating system, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.\nROS2 is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it’s all open source.\nMoveIt is the most widely used software for manipulation and has been used on over 100 robots. It provides an easy-to-use robotics platform for developing advanced applications, evaluating new designs and building integrated products for industrial, commercial, R&D, and other domains.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nGazebo accurately and efficiently simulates indoor and outdoor robots. You get a robust physics engine, high-quality graphics, and programmatic and graphical interfaces.\nRobotics System Toolbox provides tools and algorithms for designing, simulating, and testing manipulators, mobile robots, and humanoid robots. For manipulators and humanoid robots, the toolbox includes algorithms for collision checking, trajectory generation, forward and inverse kinematics, and dynamics using a rigid body tree representation. For mobile robots, it includes algorithms for mapping, localization, path planning, path following, and motion control. The toolbox provides reference examples of common industrial robot applications. It also includes a library of commercially available industrial robot models that you can import, visualize, and simulate.\nNeurorobotics Platform (NRP) is an Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.\nViSP is an open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.\nArduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.\nArduPilot enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.\nLight Detection and Ranging(LiDAR) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications (Laser Imaging), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.\nROS-Industrial is an open source project that extends the advanced capabilities of ROS software to manufacturing.\nAWS RoboMaker is the most complete cloud solution for robotic developers to simulate, test and securely deploy robotic applications at scale. RoboMaker provides a fully-managed, scalable infrastructure for simulation that customers use for multi-robot simulation and CI/CD integration with regression testing in simulation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Robotics Library (RL)",
+          "description": "is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.RL runs on many different systems, including Linux, macOS, and Windows. It uses CMake as a build system and can be compiled with Clang, GCC, and Visual Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20737145,
+            "language": "C++",
+            "last_commit": "2025-04-15T21:15:32Z",
+            "owner": "roboticslibrary",
+            "repo": "rl",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intel Robot DevKit",
+          "description": "is the tool to generate Robotics Software Development Kit (RDK) designed for autonomous devices, including the ROS2 core and capacibilities packages like perception, planning, control driver etc. It provides flexible build/runtime configurations to meet different autonomous requirement on top of diversity hardware choices, for example use different hareware engine CPU/GPU/VPU to accelerate AI related features.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 176375413,
+            "language": "Shell",
+            "last_commit": "2023-01-07T00:11:03Z",
+            "owner": "intel",
+            "repo": "robot_devkit",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS Behavior Trees",
+          "description": "is an open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34942316,
+            "language": "C++",
+            "last_commit": "2018-10-22T06:58:51Z",
+            "owner": "miccol",
+            "repo": "ROS-Behavior-Tree",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2core",
+          "description": "is an open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8676812,
+            "language": "C++",
+            "last_commit": "2023-07-20T18:21:21Z",
+            "owner": "synthetos",
+            "repo": "g2",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ur5controller",
+          "description": "is an open-source OpenRAVE controller for UR5 robot integrated with ROS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109990655,
+            "language": "Python",
+            "last_commit": "2020-06-22T09:36:33Z",
+            "owner": "roboticsleeds",
+            "repo": "ur5controller",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBDL",
+          "description": "is an open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208891294,
+            "language": "C++",
+            "last_commit": "2025-06-09T20:32:53Z",
+            "owner": "rbdl",
+            "repo": "rbdl",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Robotics Hub",
+          "description": "is a Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298347380,
+            "language": "C#",
+            "last_commit": "2024-11-26T12:02:53Z",
+            "owner": "Unity-Technologies",
+            "repo": "Unity-Robotics-Hub",
+            "stars": 2563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirSim",
+          "description": "is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81887991,
+            "language": "C++",
+            "last_commit": "2026-06-30T19:34:07Z",
+            "owner": "microsoft",
+            "repo": "AirSim",
+            "stars": 18418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The JPL Open Source Rover",
+          "description": "is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139205847,
+            "language": "Prolog",
+            "last_commit": "2026-08-13T01:02:20Z",
+            "owner": "nasa-jpl",
+            "repo": "open-source-rover",
+            "stars": 9601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliceVision",
+          "description": "is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28635894,
+            "language": "C++",
+            "last_commit": "2026-08-21T14:57:21Z",
+            "owner": "alicevision",
+            "repo": "AliceVision",
+            "stars": 3486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CARLA",
+          "description": "is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108102826,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:49:39Z",
+            "owner": "carla-simulator",
+            "repo": "carla",
+            "stars": 14317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS bridge",
+          "description": "is a package to bridge ROS for CARLA Simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159830279,
+            "language": "Python",
+            "last_commit": "2026-08-16T16:53:49Z",
+            "owner": "carla-simulator",
+            "repo": "ros-bridge",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code Extension for ROS",
+          "description": "is an extension provides support for Robot Operating System (ROS) development.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 181959116,
+            "language": "TypeScript",
+            "last_commit": "2025-05-30T20:37:03Z",
+            "owner": "ms-iot",
+            "repo": "vscode-ros",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Kinect ROS Driver",
+          "description": "is a node which publishes sensor data from the Azure Kinect Developer Kit to the Robot Operating System (ROS). Developers working with ROS can use this node to connect an Azure Kinect Developer Kit to an existing ROS installation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182304553,
+            "language": "C++",
+            "last_commit": "2024-08-06T12:27:16Z",
+            "owner": "microsoft",
+            "repo": "Azure_Kinect_ROS_Driver",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure IoT Hub for ROS",
+          "description": "is a ROS package works with the Microsoft Azure IoT Hub service to relay telemetry messages from the Robot to Azure IoT Hub or reflect properties from the Digital Twin to the robot using dynamic reconfigure.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 112382497,
+            "language": "C++",
+            "last_commit": "2022-08-19T15:13:18Z",
+            "owner": "microsoft",
+            "repo": "ros_azure_iothub",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS 2 with ONNX Runtime",
+          "description": "is a program that uses ROS 2 to run on different hardware platforms using their respective AI acceleration libraries for optimized execution of the ONNX model.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 286577642,
+            "language": "C++",
+            "last_commit": "2024-02-14T20:48:17Z",
+            "owner": "ms-iot",
+            "repo": "ros_msft_onnx",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Cognitive Services LUIS ROS Node",
+          "description": "is a ROS node that bridges between ROS and the Azure Language Understanding Service. it can be configured to process audio directly from a microphone, or can subscribe to a ROS audio topic, then processes speech and generates \"intent\" ROS messages which can be processed by another ROS node to generate ROS commands.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 160089214,
+            "language": "C++",
+            "last_commit": "2023-01-17T23:17:15Z",
+            "owner": "ms-iot",
+            "repo": "ros_msft_luis",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Robotics Tools and Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C++ Core Guidelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41058054,
+                "language": "CSS",
+                "last_commit": "2026-08-06T15:54:13Z",
+                "owner": "isocpp",
+                "repo": "CppCoreGuidelines",
+                "stars": 45264
+              }
+            }
+          ],
+          "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
+          "node_type": "group",
+          "title": "C/C++ Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure SDK for C++",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233147271,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:44:07Z",
+                "owner": "Azure",
+                "repo": "azure-sdk-for-cpp",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SDK for C",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 195472455,
+                "language": "C",
+                "last_commit": "2026-07-15T18:38:48Z",
+                "owner": "Azure",
+                "repo": "azure-sdk-for-c",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C++ Client Libraries for Google Cloud Services",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111860063,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:35:43Z",
+                "owner": "googleapis",
+                "repo": "google-cloud-cpp",
+                "stars": 659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vcpkg",
+              "description": "is a C++ Library Manager for Windows, Linux, and MacOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68312233,
+                "language": "CMake",
+                "last_commit": "2026-08-24T11:17:53Z",
+                "owner": "microsoft",
+                "repo": "vcpkg",
+                "stars": 27390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CppSharp",
+              "description": "is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9988318,
+                "language": "C#",
+                "last_commit": "2026-05-18T12:47:02Z",
+                "owner": "mono",
+                "repo": "CppSharp",
+                "stars": 3403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thrust",
+              "description": "is a C++ parallel programming library which resembles the C++ Standard Library. Thrust's high-level interface greatly enhances programmer productivity while enabling performance portability between GPUs and multicore CPUs. Interoperability with established technologies such as CUDA, TBB, and OpenMP integrates with existing software.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3633213,
+                "language": "C++",
+                "last_commit": "2024-02-08T15:54:40Z",
+                "owner": "NVIDIA",
+                "repo": "thrust",
+                "stars": 5002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaCPP",
+              "description": "is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18992193,
+                "language": "Java",
+                "last_commit": "2026-08-10T23:19:17Z",
+                "owner": "bytedeco",
+                "repo": "javacpp",
+                "stars": 4705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spdlog",
+              "description": "is a very fast, header-only/compiled, C++ logging library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26038648,
+                "language": "C++",
+                "last_commit": "2026-08-08T10:51:08Z",
+                "owner": "gabime",
+                "repo": "spdlog",
+                "stars": 29520
+              }
+            }
+          ],
+          "description": "AWS SDK for C++\nVisual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
+          "node_type": "group",
+          "title": "C/C++ Tools"
+        }
+      ],
+      "title": "C/C++ Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Python Open Source Computer Science Degree by Forrest Knight",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289710302,
+                "language": null,
+                "last_commit": "2025-06-11T17:17:33Z",
+                "owner": "ForrestKnight",
+                "repo": "open-source-cs-python",
+                "stars": 3959
+              }
+            }
+          ],
+          "description": "Python is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning.\nPython Developer’s Guide is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python.\nAzure Functions Python developer guide is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the Azure Functions developers guide.\nCheckiO is a programming learning platform and a gamified website that teaches Python through solving code challenges and competing for the most elegant and creative solutions.\nPython Institute\nPCEP – Certified Entry-Level Python Programmer certification\nPCAP – Certified Associate in Python Programming certification\nPCPP – Certified Professional in Python Programming 1 certification\nPCPP – Certified Professional in Python Programming 2\nMTA: Introduction to Programming Using Python Certification\nGetting Started with Python in Visual Studio Code\nGoogle's Python Style Guide\nGoogle's Python Education Class\nReal Python\nIntro to Python for Data Science\nIntro to Python by W3schools\nCodecademy's Python 3 course\nLearn Python with Online Courses and Classes from edX\nPython Courses Online from Coursera",
+          "node_type": "group",
+          "title": "Python Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pylance",
+              "description": "is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265902625,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:10:27Z",
+                "owner": "microsoft",
+                "repo": "pylance-release",
+                "stars": 2113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pyright",
+              "description": "is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175129788,
+                "language": "Python",
+                "last_commit": "2026-08-22T01:26:26Z",
+                "owner": "microsoft",
+                "repo": "pyright",
+                "stars": 15596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Chalice",
+              "description": "is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59868262,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:03:00Z",
+                "owner": "aws",
+                "repo": "chalice",
+                "stars": 11061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTPie",
+              "description": "is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3544424,
+                "language": "Python",
+                "last_commit": "2024-12-17T17:30:35Z",
+                "owner": "httpie",
+                "repo": "cli",
+                "stars": 38446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pipenv",
+              "description": "is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79510167,
+                "language": "Python",
+                "last_commit": "2026-08-21T02:43:02Z",
+                "owner": "pypa",
+                "repo": "pipenv",
+                "stars": 25039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Fire",
+              "description": "is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82729529,
+                "language": "Python",
+                "last_commit": "2026-07-01T08:19:02Z",
+                "owner": "google",
+                "repo": "python-fire",
+                "stars": 28205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bottle",
+              "description": "is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239940,
+                "language": "Python",
+                "last_commit": "2026-07-19T07:21:52Z",
+                "owner": "bottlepy",
+                "repo": "bottle",
+                "stars": 8776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sanic",
+              "description": "is a Python 3.6+ web server and web framework that's written to go fast.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59720190,
+                "language": "Python",
+                "last_commit": "2026-07-29T03:09:51Z",
+                "owner": "sanic-org",
+                "repo": "sanic",
+                "stars": 18643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Network Intelligence(NNI)",
+              "description": "is an open source AutoML toolkit for automate machine learning lifecycle, including Feature Engineering, Neural Architecture Search, Model Compression and Hyperparameter Tuning.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135673451,
+                "language": "Python",
+                "last_commit": "2024-07-03T10:55:10Z",
+                "owner": "microsoft",
+                "repo": "nni",
+                "stars": 14362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Luigi",
+              "description": "is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5888353,
+                "language": "Python",
+                "last_commit": "2026-07-18T11:15:46Z",
+                "owner": "spotify",
+                "repo": "luigi",
+                "stars": 18765
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Locust",
+              "description": "is an easy to use, scriptable and scalable performance testing tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1377867,
+                "language": "Python",
+                "last_commit": "2026-08-24T09:06:41Z",
+                "owner": "locustio",
+                "repo": "locust",
+                "stars": 28094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spaCy",
+              "description": "is a library for advanced Natural Language Processing in Python and Cython.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21467110,
+                "language": "Python",
+                "last_commit": "2026-08-24T08:26:10Z",
+                "owner": "explosion",
+                "repo": "spaCy",
+                "stars": 33840
+              }
+            }
+          ],
+          "description": "Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nPyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows.\nPython Tools for Visual Studio(PTVS) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.\nWeb2py is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.\nTornado is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.\nScrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.\nSentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.\nCherryPy is a minimalist Python object-oriented HTTP web framework.\nPyramid is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.\nTurboGears is a hybrid web framework able to act both as a Full Stack framework or as a Microframework.\nFalcon is a reliable, high-performance Python web framework for building large-scale app backends and microservices with support for MongoDB, Pluggable Applications and autogenerated Admin.\nDash is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.\nNumPy is the fundamental package needed for scientific computing with Python.\nPillow is a friendly PIL(Python Imaging Library) fork.\nIPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.\nGraphLab Create is a Python library, backed by a C++ engine, for quickly building large-scale, high-performance machine learning models.\nPandas is a fast, powerful, and easy to use open source data structrures, data analysis and manipulation tool, built on top of the Python programming language.\nPuLP is an Linear Programming modeler written in python. PuLP can generate LP files and call on use highly optimized solvers, GLPK, COIN CLP/CBC, CPLEX, and GUROBI, to solve these linear problems.\nMatplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.\nScikit-Learn is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.",
+          "node_type": "group",
+          "title": "Python Frameworks and Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "If would you like to contribute to this guide simply make a Pull Request",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304958225,
+                "language": "Python",
+                "last_commit": "2024-01-04T22:13:31Z",
+                "owner": "mikeroyal",
+                "repo": "Robotics-guide",
+                "stars": 76
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Contribute"
+        }
+      ],
+      "title": "Python Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:02:04.031Z",
+    "last_updated": "2026-08-24T14:46:39.312Z",
     "original_repository": "mikeroyal/Robotics-guide",
     "original_repository_id": 304958225,
     "original_repository_sha": "ca755046c6e555a471dd038c0136822371dab36b",
