@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-25T00:15:26Z",
+                "last_commit": "2026-08-25T06:29:14Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27392
+                "stars": 27391
               }
             },
             {
@@ -548,7 +548,7 @@
                 "archived": false,
                 "id": 265902625,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:48:47Z",
+                "last_commit": "2026-08-25T06:18:25Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
                 "stars": 2113
@@ -596,7 +596,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38448
+                "stars": 38449
               }
             },
             {
@@ -641,7 +641,7 @@
                 "last_commit": "2026-07-19T07:21:52Z",
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8776
+                "stars": 8778
               }
             },
             {
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-24T09:06:41Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28096
+                "stars": 28097
               }
             },
             {
@@ -716,7 +716,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33840
+                "stars": 33841
               }
             }
           ],
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:56:47.664Z",
+    "last_updated": "2026-08-25T06:37:00.702Z",
     "original_repository": "mikeroyal/Robotics-guide",
     "original_repository_id": 304958225,
     "original_repository_sha": "ca755046c6e555a471dd038c0136822371dab36b",

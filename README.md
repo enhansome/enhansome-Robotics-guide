@@ -538,13 +538,13 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 204 | 🌐 C++ | 📅 2026-08-25
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 203 | 🌐 C++ | 📅 2026-08-25
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,392 | 🐛 1,174 | 🌐 CMake | 📅 2026-08-25 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,391 | 🐛 1,178 | 🌐 CMake | 📅 2026-08-25 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -660,7 +660,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Python Tools for Visual Studio(PTVS)](https://microsoft.github.io/PTVS/) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.
 
-[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,113 | 🐛 141 | 🌐 Python | 📅 2026-08-25 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
+[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,113 | 🐛 89 | 🌐 Python | 📅 2026-08-25 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
 [Pyright](https://github.com/Microsoft/pyright) ⭐ 15,597 | 🐛 331 | 🌐 Python | 📅 2026-08-24 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
@@ -674,7 +674,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,448 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,449 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
@@ -684,7 +684,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Python Fire](https://github.com/google/python-fire) ⭐ 28,204 | 🐛 194 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
-[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,776 | 🐛 288 | 🌐 Python | 📅 2026-07-19 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
+[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,778 | 🐛 288 | 🌐 Python | 📅 2026-07-19 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
 
 [CherryPy](https://cherrypy.org) is a minimalist Python object-oriented HTTP web framework.
 
@@ -702,9 +702,9 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 170 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,096 | 🐛 3 | 🌐 Python | 📅 2026-08-24 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,097 | 🐛 3 | 🌐 Python | 📅 2026-08-24 is an easy to use, scriptable and scalable performance testing tool.
 
-[spaCy](https://github.com/explosion/spaCy) ⭐ 33,840 | 🐛 237 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
+[spaCy](https://github.com/explosion/spaCy) ⭐ 33,841 | 🐛 237 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
