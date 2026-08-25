@@ -156,7 +156,7 @@
             "last_commit": "2023-07-20T18:21:21Z",
             "owner": "synthetos",
             "repo": "g2",
-            "stars": 676
+            "stars": 675
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2563
+            "stars": 2564
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-13T01:02:20Z",
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9601
+            "stars": 9602
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 108102826,
             "language": "C++",
-            "last_commit": "2026-08-24T13:49:39Z",
+            "last_commit": "2026-08-24T22:03:42Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14317
+            "stars": 14319
           }
         },
         {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45264
+                "stars": 45266
               }
             }
           ],
@@ -393,7 +393,7 @@
                 "archived": false,
                 "id": 233147271,
                 "language": "C++",
-                "last_commit": "2026-08-24T06:44:07Z",
+                "last_commit": "2026-08-24T23:18:49Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 204
@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:35:43Z",
+                "last_commit": "2026-08-25T00:15:26Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -438,10 +438,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-24T11:17:53Z",
+                "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27390
+                "stars": 27392
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2025-06-11T17:17:33Z",
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
-                "stars": 3959
+                "stars": 3961
               }
             }
           ],
@@ -548,7 +548,7 @@
                 "archived": false,
                 "id": 265902625,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:10:27Z",
+                "last_commit": "2026-08-25T00:48:47Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
                 "stars": 2113
@@ -563,10 +563,10 @@
                 "archived": false,
                 "id": 175129788,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:26:26Z",
+                "last_commit": "2026-08-24T23:11:13Z",
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15596
+                "stars": 15597
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38446
+                "stars": 38448
               }
             },
             {
@@ -608,10 +608,10 @@
                 "archived": false,
                 "id": 79510167,
                 "language": "Python",
-                "last_commit": "2026-08-21T02:43:02Z",
+                "last_commit": "2026-08-24T22:09:52Z",
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25039
+                "stars": 25038
               }
             },
             {
@@ -626,7 +626,7 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28205
+                "stars": 28204
               }
             },
             {
@@ -656,7 +656,7 @@
                 "last_commit": "2026-07-29T03:09:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18643
+                "stars": 18644
               }
             },
             {
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-24T09:06:41Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28094
+                "stars": 28096
               }
             },
             {
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:39.312Z",
+    "last_updated": "2026-08-25T01:56:47.664Z",
     "original_repository": "mikeroyal/Robotics-guide",
     "original_repository_id": 304958225,
     "original_repository_sha": "ca755046c6e555a471dd038c0136822371dab36b",
