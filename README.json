@@ -216,7 +216,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18424
+            "stars": 18425
           }
         },
         {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45279
+                "stars": 45280
               }
             }
           ],
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-26T19:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27404
+                "stars": 27403
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-27T01:42:47Z",
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15599
+                "stars": 15600
               }
             },
             {
@@ -611,7 +611,7 @@
                 "last_commit": "2026-08-24T22:09:52Z",
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25036
+                "stars": 25035
               }
             },
             {
@@ -716,7 +716,7 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33853
+                "stars": 33854
               }
             }
           ],
@@ -751,9 +751,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:01:17.728Z",
-    "original_repository": "mikeroyal/Robotics-guide",
-    "original_repository_id": 304958225,
+    "last_updated": "2026-08-27T12:00:22.330Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 304958225,
+      "language": "Python",
+      "last_commit": "2024-01-04T22:13:31Z",
+      "owner": "mikeroyal",
+      "repo": "Robotics-guide",
+      "stars": 76
+    },
     "original_repository_sha": "ca755046c6e555a471dd038c0136822371dab36b",
     "enhanced_repository": "enhansome/enhansome-Robotics-guide",
     "enhanced_repository_description": null,
