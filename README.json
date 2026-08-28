@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Robotics-guide",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Robotics-guide",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Robotics-guide",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Robotics-guide",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Robotics-guide",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Robotics-guide",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         }
       ],
       "title": "A guide covering Robotics including the applications, libraries and tools that will make you a better and more efficient Robotics developer."
@@ -112,7 +118,8 @@
             "owner": "roboticslibrary",
             "repo": "rl",
             "stars": 1199
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "intel",
             "repo": "robot_devkit",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "miccol",
             "repo": "ROS-Behavior-Tree",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "synthetos",
             "repo": "g2",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "roboticsleeds",
             "repo": "ur5controller",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "rbdl",
             "repo": "rbdl",
             "stars": 705
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2566
-          }
+            "stars": 2568
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "microsoft",
             "repo": "AirSim",
             "stars": 18425
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -231,8 +245,9 @@
             "last_commit": "2026-08-13T01:02:20Z",
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9611
-          }
+            "stars": 9612
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -243,11 +258,12 @@
             "archived": false,
             "id": 28635894,
             "language": "C++",
-            "last_commit": "2026-08-27T09:32:38Z",
+            "last_commit": "2026-08-28T11:29:58Z",
             "owner": "alicevision",
             "repo": "AliceVision",
             "stars": 3486
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -258,11 +274,12 @@
             "archived": false,
             "id": 108102826,
             "language": "C++",
-            "last_commit": "2026-08-27T09:24:03Z",
+            "last_commit": "2026-08-28T11:26:35Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14328
-          }
+            "stars": 14334
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-08-16T16:53:49Z",
             "owner": "carla-simulator",
             "repo": "ros-bridge",
-            "stars": 643
-          }
+            "stars": 644
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "ms-iot",
             "repo": "vscode-ros",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "microsoft",
             "repo": "Azure_Kinect_ROS_Driver",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "microsoft",
             "repo": "ros_azure_iothub",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "ms-iot",
             "repo": "ros_msft_onnx",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "ms-iot",
             "repo": "ros_msft_luis",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:32:56.204Z"
         }
       ],
       "title": "Robotics Tools and Frameworks"
@@ -375,7 +398,8 @@
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
                 "stars": 45280
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             }
           ],
           "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
@@ -393,11 +417,12 @@
                 "archived": false,
                 "id": 233147271,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:18:07Z",
+                "last_commit": "2026-08-27T23:19:42Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -412,7 +437,8 @@
                 "owner": "Azure",
                 "repo": "azure-sdk-for-c",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -423,11 +449,12 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:52:35Z",
+                "last_commit": "2026-08-28T10:58:16Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -438,11 +465,12 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-26T19:17:53Z",
+                "last_commit": "2026-08-28T05:39:48Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27403
-              }
+                "stars": 27401
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -456,8 +484,9 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3406
-              }
+                "stars": 3405
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -472,7 +501,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -487,7 +517,8 @@
                 "owner": "bytedeco",
                 "repo": "javacpp",
                 "stars": 4705
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -501,8 +532,9 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29530
-              }
+                "stars": 29534
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             }
           ],
           "description": "AWS SDK for C++\nVisual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
@@ -530,7 +562,8 @@
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
                 "stars": 3961
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             }
           ],
           "description": "Python is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning.\nPython Developer’s Guide is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python.\nAzure Functions Python developer guide is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the Azure Functions developers guide.\nCheckiO is a programming learning platform and a gamified website that teaches Python through solving code challenges and competing for the most elegant and creative solutions.\nPython Institute\nPCEP – Certified Entry-Level Python Programmer certification\nPCAP – Certified Associate in Python Programming certification\nPCPP – Certified Professional in Python Programming 1 certification\nPCPP – Certified Professional in Python Programming 2\nMTA: Introduction to Programming Using Python Certification\nGetting Started with Python in Visual Studio Code\nGoogle's Python Style Guide\nGoogle's Python Education Class\nReal Python\nIntro to Python for Data Science\nIntro to Python by W3schools\nCodecademy's Python 3 course\nLearn Python with Online Courses and Classes from edX\nPython Courses Online from Coursera",
@@ -548,11 +581,12 @@
                 "archived": false,
                 "id": 265902625,
                 "language": "Python",
-                "last_commit": "2026-08-26T05:12:51Z",
+                "last_commit": "2026-08-28T10:47:05Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2115
-              }
+                "stars": 2116
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -563,11 +597,12 @@
                 "archived": false,
                 "id": 175129788,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:42:47Z",
+                "last_commit": "2026-08-28T00:58:37Z",
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15600
-              }
+                "stars": 15604
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -582,7 +617,8 @@
                 "owner": "aws",
                 "repo": "chalice",
                 "stars": 11061
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -596,8 +632,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -612,7 +649,8 @@
                 "owner": "pypa",
                 "repo": "pipenv",
                 "stars": 25035
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -626,8 +664,9 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28209
-              }
+                "stars": 28211
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -641,8 +680,9 @@
                 "last_commit": "2026-07-19T07:21:52Z",
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8779
-              }
+                "stars": 8778
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -656,8 +696,9 @@
                 "last_commit": "2026-07-29T03:09:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18645
-              }
+                "stars": 18646
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -672,7 +713,8 @@
                 "owner": "microsoft",
                 "repo": "nni",
                 "stars": 14360
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -686,8 +728,9 @@
                 "last_commit": "2026-07-18T11:15:46Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18765
-              }
+                "stars": 18769
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -701,8 +744,9 @@
                 "last_commit": "2026-08-26T17:46:29Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28107
-              }
+                "stars": 28112
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             },
             {
               "node_type": "item",
@@ -716,8 +760,9 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33854
-              }
+                "stars": 33857
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             }
           ],
           "description": "Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nPyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows.\nPython Tools for Visual Studio(PTVS) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.\nWeb2py is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.\nTornado is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.\nScrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.\nSentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.\nCherryPy is a minimalist Python object-oriented HTTP web framework.\nPyramid is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.\nTurboGears is a hybrid web framework able to act both as a Full Stack framework or as a Microframework.\nFalcon is a reliable, high-performance Python web framework for building large-scale app backends and microservices with support for MongoDB, Pluggable Applications and autogenerated Admin.\nDash is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.\nNumPy is the fundamental package needed for scientific computing with Python.\nPillow is a friendly PIL(Python Imaging Library) fork.\nIPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.\nGraphLab Create is a Python library, backed by a C++ engine, for quickly building large-scale, high-performance machine learning models.\nPandas is a fast, powerful, and easy to use open source data structrures, data analysis and manipulation tool, built on top of the Python programming language.\nPuLP is an Linear Programming modeler written in python. PuLP can generate LP files and call on use highly optimized solvers, GLPK, COIN CLP/CBC, CPLEX, and GUROBI, to solve these linear problems.\nMatplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.\nScikit-Learn is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.",
@@ -739,7 +784,8 @@
                 "owner": "mikeroyal",
                 "repo": "Robotics-guide",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T11:32:56.204Z"
             }
           ],
           "description": null,
@@ -751,7 +797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:22.330Z",
+    "last_updated": "2026-08-28T11:32:56.204Z",
     "original_repository_info": {
       "archived": false,
       "id": 304958225,
