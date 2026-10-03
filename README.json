@@ -1,264 +1,6 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nEva is a 6-axis of freedom and ease of use, the lab robot arm easily automates the loading and unloading of samples into lab machines, precision balances and more. Eva can handle a range of common lab items including microplates, PCR tube strips, eppendorf tubes, petri dishes and microscope slides to automating repetitive and strenuous sample handling processes. Common manufacturing machine tending applications with Eva include start/end of line loading and unloading of machines such as CNC machines, CMMs, metal presses and chemical etching machines.\nEva lab robot arm from Automata. Source: Automata\nAWS DeepRacer autonomous Car Kit\nCheckout the AWS DeepRacer autonomous Car Kit\nAWS DeepRacer autonomous Car Kit Hardware Specifications\nCheckout the SunFounder PiCar-V Kit V2.0 for Raspberry Pi",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Robotic Arms & Dev Kits",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robotics Guide ",
-            "homepage": null,
-            "id": 304958225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-01-04T22:13:31Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Robotics-guide",
-            "stars": 76,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-robotics",
-              "irobot",
-              "opencv",
-              "opencv-python",
-              "robot-framework",
-              "robot-learning",
-              "robot-operating-system",
-              "robotframework",
-              "robotic",
-              "robotic-arm",
-              "robotics",
-              "robotics-control",
-              "robotics-programming",
-              "robotics-simplified",
-              "robotics-simulation",
-              "robots",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T11:32:56.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Robotics Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robotics Guide ",
-            "homepage": null,
-            "id": 304958225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-01-04T22:13:31Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Robotics-guide",
-            "stars": 76,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-robotics",
-              "irobot",
-              "opencv",
-              "opencv-python",
-              "robot-framework",
-              "robot-learning",
-              "robot-operating-system",
-              "robotframework",
-              "robotic",
-              "robotic-arm",
-              "robotics",
-              "robotics-control",
-              "robotics-programming",
-              "robotics-simplified",
-              "robotics-simulation",
-              "robots",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T11:32:56.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Robotics Tools and Frameworks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robotics Guide ",
-            "homepage": null,
-            "id": 304958225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-01-04T22:13:31Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Robotics-guide",
-            "stars": 76,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-robotics",
-              "irobot",
-              "opencv",
-              "opencv-python",
-              "robot-framework",
-              "robot-learning",
-              "robot-operating-system",
-              "robotframework",
-              "robotic",
-              "robotic-arm",
-              "robotics",
-              "robotics-control",
-              "robotics-programming",
-              "robotics-simplified",
-              "robotics-simulation",
-              "robots",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T11:32:56.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Autodesk Robotics Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robotics Guide ",
-            "homepage": null,
-            "id": 304958225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-01-04T22:13:31Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Robotics-guide",
-            "stars": 76,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-robotics",
-              "irobot",
-              "opencv",
-              "opencv-python",
-              "robot-framework",
-              "robot-learning",
-              "robot-operating-system",
-              "robotframework",
-              "robotic",
-              "robotic-arm",
-              "robotics",
-              "robotics-control",
-              "robotics-programming",
-              "robotics-simplified",
-              "robotics-simulation",
-              "robots",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T11:32:56.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "C/C++ Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robotics Guide ",
-            "homepage": null,
-            "id": 304958225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-01-04T22:13:31Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Robotics-guide",
-            "stars": 76,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-robotics",
-              "irobot",
-              "opencv",
-              "opencv-python",
-              "robot-framework",
-              "robot-learning",
-              "robot-operating-system",
-              "robotframework",
-              "robotic",
-              "robotic-arm",
-              "robotics",
-              "robotics-control",
-              "robotics-programming",
-              "robotics-simplified",
-              "robotics-simulation",
-              "robots",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T11:32:56.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Python Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Robotics Guide ",
-            "homepage": null,
-            "id": 304958225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-01-04T22:13:31Z",
-            "open_issues": 0,
-            "owner": "mikeroyal",
-            "repo": "Robotics-guide",
-            "stars": 76,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-robotics",
-              "irobot",
-              "opencv",
-              "opencv-python",
-              "robot-framework",
-              "robot-learning",
-              "robot-operating-system",
-              "robotframework",
-              "robotic",
-              "robotic-arm",
-              "robotics",
-              "robotics-control",
-              "robotics-programming",
-              "robotics-simplified",
-              "robotics-simulation",
-              "robots",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T11:32:56.204Z"
-        }
-      ],
-      "title": "A guide covering Robotics including the applications, libraries and tools that will make you a better and more efficient Robotics developer."
-    },
-    {
       "description": "Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation. It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.\nRobot Structural Analysis Professional is structural load analysis software developed by Autodesk that verifies code compliance and uses BIM-integrated workflows to exchange data with Revit. It can help you to create more resilient, constructible designs that are accurate, coordinated, and connected to BIM.\nPowerMill is a software developed by Autodesk that provides powerful, flexible, easy-to-use tools for offline programming of robots. Get tools to help you optimize robotic paths and simulate virtual mock-ups of manufacturing cells and systems.\nROS is robotics middleware. Although ROS is not an operating system, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.\nROS2 is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it’s all open source.\nMoveIt is the most widely used software for manipulation and has been used on over 100 robots. It provides an easy-to-use robotics platform for developing advanced applications, evaluating new designs and building integrated products for industrial, commercial, R&D, and other domains.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nGazebo accurately and efficiently simulates indoor and outdoor robots. You get a robust physics engine, high-quality graphics, and programmatic and graphical interfaces.\nRobotics System Toolbox provides tools and algorithms for designing, simulating, and testing manipulators, mobile robots, and humanoid robots. For manipulators and humanoid robots, the toolbox includes algorithms for collision checking, trajectory generation, forward and inverse kinematics, and dynamics using a rigid body tree representation. For mobile robots, it includes algorithms for mapping, localization, path planning, path following, and motion control. The toolbox provides reference examples of common industrial robot applications. It also includes a library of commercially available industrial robot models that you can import, visualize, and simulate.\nNeurorobotics Platform (NRP) is an Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.\nViSP is an open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.\nArduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.\nArduPilot enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.\nLight Detection and Ranging(LiDAR) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications (Laser Imaging), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.\nROS-Industrial is an open source project that extends the advanced capabilities of ROS software to manufacturing.\nAWS RoboMaker is the most complete cloud solution for robotic developers to simulate, test and securely deploy robotic applications at scale. RoboMaker provides a fully-managed, scalable infrastructure for simulation that customers use for multi-robot simulation and CI/CD integration with regression testing in simulation.",
       "items": [
         {
@@ -277,7 +19,7 @@
             "open_issues": 54,
             "owner": "roboticslibrary",
             "repo": "rl",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "c-plus-plus",
               "collision-detection",
@@ -356,7 +98,7 @@
             "open_issues": 138,
             "owner": "synthetos",
             "repo": "g2",
-            "stars": 676,
+            "stars": 677,
             "topics": [
               "3d-printing",
               "cnc",
@@ -523,7 +265,7 @@
             "open_issues": 16,
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9679,
+            "stars": 9677,
             "topics": [
               "diy",
               "hardware",
@@ -548,11 +290,11 @@
             "id": 28635894,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T14:06:40Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-02T12:43:34Z",
+            "open_issues": 45,
             "owner": "alicevision",
             "repo": "AliceVision",
-            "stars": 3506,
+            "stars": 3508,
             "topics": [
               "3d-computer-vision",
               "3d-reconstruction",
@@ -583,11 +325,11 @@
             "id": 108102826,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:35:57Z",
+            "last_commit": "2026-10-03T00:24:39Z",
             "open_issues": 1192,
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14450,
+            "stars": 14453,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -762,7 +504,7 @@
             {
               "node_type": "item",
               "title": "C++ Core Guidelines",
-              "description": null,
+              "description": "isocpp/CppCoreGuidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -775,7 +517,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45350,
+                "stars": 45353,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:56.204Z"
@@ -790,7 +532,7 @@
             {
               "node_type": "item",
               "title": "Azure SDK for C++",
-              "description": null,
+              "description": "Azure/azure-sdk-for-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -799,11 +541,11 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:19:08Z",
+                "last_commit": "2026-10-02T23:19:49Z",
                 "open_issues": 156,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
-                "stars": 207,
+                "stars": 206,
                 "topics": [
                   "azure",
                   "azure-sdk",
@@ -816,7 +558,7 @@
             {
               "node_type": "item",
               "title": "Azure SDK for C",
-              "description": null,
+              "description": "Azure/azure-sdk-for-c",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -829,7 +571,7 @@
                 "open_issues": 2,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-c",
-                "stars": 242,
+                "stars": 241,
                 "topics": [
                   "azure",
                   "azure-sdk",
@@ -844,7 +586,7 @@
             {
               "node_type": "item",
               "title": "C++ Client Libraries for Google Cloud Services",
-              "description": null,
+              "description": "googleapis/google-cloud-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -853,8 +595,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:03:10Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-03T03:26:23Z",
+                "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 658,
@@ -889,11 +631,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-02T03:54:17Z",
-                "open_issues": 1098,
+                "last_commit": "2026-10-03T01:56:12Z",
+                "open_issues": 1092,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27512,
+                "stars": 27513,
                 "topics": [
                   "c",
                   "cmake",
@@ -925,7 +667,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3401,
+                "stars": 3399,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -966,7 +708,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5000,
+                "stars": 5001,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1030,11 +772,11 @@
                 "id": 26038648,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T23:01:32Z",
+                "last_commit": "2026-10-02T18:58:12Z",
                 "open_issues": 54,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29646,
+                "stars": 29650,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1061,7 +803,7 @@
             {
               "node_type": "item",
               "title": "The Python Open Source Computer Science Degree by Forrest Knight",
-              "description": null,
+              "description": "ForrestKnight/open-source-cs-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1104,7 +846,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2124,
+                "stars": 2123,
                 "topics": [
                   "code-analysis",
                   "language-server",
@@ -1126,11 +868,11 @@
                 "id": 175129788,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T05:39:26Z",
-                "open_issues": 327,
+                "last_commit": "2026-10-02T23:31:30Z",
+                "open_issues": 331,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15669,
+                "stars": 15671,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:56.204Z"
@@ -1151,7 +893,7 @@
                 "open_issues": 501,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11052,
+                "stars": 11053,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -1183,7 +925,7 @@
                 "open_issues": 346,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38603,
+                "stars": 38607,
                 "topics": [
                   "api",
                   "api-client",
@@ -1225,7 +967,7 @@
                 "open_issues": 12,
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25027,
+                "stars": 25023,
                 "topics": [
                   "packaging",
                   "pip",
@@ -1249,10 +991,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-01T08:19:02Z",
-                "open_issues": 200,
+                "open_issues": 202,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28225,
+                "stars": 28222,
                 "topics": [
                   "cli",
                   "python"
@@ -1276,7 +1018,7 @@
                 "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8791,
+                "stars": 8792,
                 "topics": [
                   "bottle",
                   "python",
@@ -1300,10 +1042,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-29T03:09:51Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18638,
+                "stars": 18636,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -1376,7 +1118,7 @@
                 "open_issues": 178,
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18781,
+                "stars": 18778,
                 "topics": [
                   "hadoop",
                   "luigi",
@@ -1400,7 +1142,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-26T09:11:45Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "locustio",
                 "repo": "locust",
                 "stars": 28195,
@@ -1436,7 +1178,7 @@
                 "open_issues": 248,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33934,
+                "stars": 33933,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1463,62 +1205,13 @@
           "description": "Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nPyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows.\nPython Tools for Visual Studio(PTVS) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.\nWeb2py is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.\nTornado is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.\nScrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.\nSentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.\nCherryPy is a minimalist Python object-oriented HTTP web framework.\nPyramid is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.\nTurboGears is a hybrid web framework able to act both as a Full Stack framework or as a Microframework.\nFalcon is a reliable, high-performance Python web framework for building large-scale app backends and microservices with support for MongoDB, Pluggable Applications and autogenerated Admin.\nDash is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.\nNumPy is the fundamental package needed for scientific computing with Python.\nPillow is a friendly PIL(Python Imaging Library) fork.\nIPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.\nGraphLab Create is a Python library, backed by a C++ engine, for quickly building large-scale, high-performance machine learning models.\nPandas is a fast, powerful, and easy to use open source data structrures, data analysis and manipulation tool, built on top of the Python programming language.\nPuLP is an Linear Programming modeler written in python. PuLP can generate LP files and call on use highly optimized solvers, GLPK, COIN CLP/CBC, CPLEX, and GUROBI, to solve these linear problems.\nMatplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.\nScikit-Learn is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.",
           "node_type": "group",
           "title": "Python Frameworks and Tools"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "If would you like to contribute to this guide simply make a Pull Request",
-              "description": ".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Robotics Guide ",
-                "homepage": null,
-                "id": 304958225,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-01-04T22:13:31Z",
-                "open_issues": 0,
-                "owner": "mikeroyal",
-                "repo": "Robotics-guide",
-                "stars": 76,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-robotics",
-                  "irobot",
-                  "opencv",
-                  "opencv-python",
-                  "robot-framework",
-                  "robot-learning",
-                  "robot-operating-system",
-                  "robotframework",
-                  "robotic",
-                  "robotic-arm",
-                  "robotics",
-                  "robotics-control",
-                  "robotics-programming",
-                  "robotics-simplified",
-                  "robotics-simulation",
-                  "robots",
-                  "ros",
-                  "ros2"
-                ]
-              },
-              "first_seen": "2026-08-28T11:32:56.204Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Contribute"
         }
       ],
       "title": "Python Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:54:04.856Z",
+    "last_updated": "2026-10-03T04:32:55.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Robotics Guide ",
