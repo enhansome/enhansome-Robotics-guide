@@ -595,7 +595,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:26:23Z",
+                "last_commit": "2026-10-03T05:02:29Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -872,7 +872,7 @@
                 "open_issues": 331,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15671,
+                "stars": 15670,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:56.204Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:55.747Z",
+    "last_updated": "2026-10-03T05:29:18.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "Robotics Guide ",
