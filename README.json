@@ -226,7 +226,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18535,
+            "stars": 18536,
             "topics": [
               "ai",
               "airsim",
@@ -265,7 +265,7 @@
             "open_issues": 17,
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9683,
+            "stars": 9684,
             "topics": [
               "diy",
               "hardware",
@@ -290,11 +290,11 @@
             "id": 28635894,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T09:12:42Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-06T09:51:45Z",
+            "open_issues": 37,
             "owner": "alicevision",
             "repo": "AliceVision",
-            "stars": 3507,
+            "stars": 3508,
             "topics": [
               "3d-computer-vision",
               "3d-reconstruction",
@@ -325,11 +325,11 @@
             "id": 108102826,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:48:19Z",
+            "last_commit": "2026-10-06T10:32:05Z",
             "open_issues": 1196,
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14460,
+            "stars": 14462,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -541,8 +541,8 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:17:31Z",
-                "open_issues": 155,
+                "last_commit": "2026-10-06T08:33:43Z",
+                "open_issues": 154,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 206,
@@ -595,8 +595,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:11:25Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-06T09:16:29Z",
+                "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -632,7 +632,7 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-10-06T05:33:26Z",
-                "open_issues": 1083,
+                "open_issues": 1085,
                 "owner": "microsoft",
                 "repo": "vcpkg",
                 "stars": 27521,
@@ -773,10 +773,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T18:58:12Z",
-                "open_issues": 54,
+                "open_issues": 56,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29663,
+                "stars": 29664,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -816,7 +816,7 @@
                 "open_issues": 19,
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
-                "stars": 3965,
+                "stars": 3963,
                 "topics": [
                   "computer-science"
                 ]
@@ -872,7 +872,7 @@
                 "open_issues": 340,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15680,
+                "stars": 15679,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:56.204Z"
@@ -925,7 +925,7 @@
                 "open_issues": 343,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38712,
+                "stars": 38720,
                 "topics": [
                   "api",
                   "api-client",
@@ -994,7 +994,7 @@
                 "open_issues": 205,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28221,
+                "stars": 28223,
                 "topics": [
                   "cli",
                   "python"
@@ -1145,7 +1145,7 @@
                 "open_issues": 5,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28198,
+                "stars": 28199,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:34:15.092Z",
+    "last_updated": "2026-10-06T10:32:39.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "Robotics Guide ",
