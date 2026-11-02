@@ -184,7 +184,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2605,
+            "stars": 2607,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -226,7 +226,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18586,
+            "stars": 18592,
             "topics": [
               "ai",
               "airsim",
@@ -265,7 +265,7 @@
             "open_issues": 16,
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9745,
+            "stars": 9748,
             "topics": [
               "diy",
               "hardware",
@@ -294,7 +294,7 @@
             "open_issues": 38,
             "owner": "alicevision",
             "repo": "AliceVision",
-            "stars": 3524,
+            "stars": 3525,
             "topics": [
               "3d-computer-vision",
               "3d-reconstruction",
@@ -329,7 +329,7 @@
             "open_issues": 1215,
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14558,
+            "stars": 14562,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -517,7 +517,7 @@
                 "open_issues": 249,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45398,
+                "stars": 45419,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:56.204Z"
@@ -595,11 +595,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T00:49:09Z",
+                "last_commit": "2026-11-02T06:06:11Z",
                 "open_issues": 211,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -631,11 +631,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-31T06:47:00Z",
-                "open_issues": 1098,
+                "last_commit": "2026-11-02T06:15:03Z",
+                "open_issues": 1085,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27558,
+                "stars": 27562,
                 "topics": [
                   "c",
                   "cmake",
@@ -773,10 +773,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-24T12:55:41Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29726,
+                "stars": 29729,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -846,7 +846,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2163,
+                "stars": 2164,
                 "topics": [
                   "code-analysis",
                   "language-server",
@@ -869,10 +869,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T17:49:37Z",
-                "open_issues": 387,
+                "open_issues": 390,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15721,
+                "stars": 15722,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:32:56.204Z"
@@ -890,7 +890,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T15:54:10Z",
-                "open_issues": 497,
+                "open_issues": 498,
                 "owner": "aws",
                 "repo": "chalice",
                 "stars": 11060,
@@ -922,10 +922,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38686,
+                "stars": 38687,
                 "topics": [
                   "api",
                   "api-client",
@@ -963,8 +963,8 @@
                 "id": 79510167,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T16:23:49Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T15:40:41Z",
+                "open_issues": 5,
                 "owner": "pypa",
                 "repo": "pipenv",
                 "stars": 25019,
@@ -994,7 +994,7 @@
                 "open_issues": 226,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28227,
+                "stars": 28226,
                 "topics": [
                   "cli",
                   "python"
@@ -1118,7 +1118,7 @@
                 "open_issues": 194,
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18783,
+                "stars": 18782,
                 "topics": [
                   "hadoop",
                   "luigi",
@@ -1141,11 +1141,11 @@
                 "id": 1377867,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T18:29:21Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-01T21:04:11Z",
+                "open_issues": 11,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28254,
+                "stars": 28256,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -1178,7 +1178,7 @@
                 "open_issues": 262,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 34006,
+                "stars": 34013,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:26:57.324Z",
+    "last_updated": "2026-11-02T06:28:32.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "Robotics Guide ",
